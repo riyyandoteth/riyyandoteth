@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/channels/@rayyanjb00" target="blank"><img align="center" src="https://user-images.githubusercontent.com/34899572/216776599-335c40a0-8b43-46f7-a547-8a31da83de54.png" alt="rayyanjb00" height="35" width="40" /></a>
+<a href="https://discord.com/channels/@rayyanjb00" target="blank"><img align="center" src="https://user-images.githubusercontent.com/34899572/216776599-335c40a0-8b43-46f7-a547-8a31da83de54.png" alt="rayyanjb00" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/rayyanjb00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayyanjb00" height="30" width="40" /></a>
 <a href="https://instagram.com/rayyan.jb00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayyan.jb00" height="30" width="40" /></a>
 </p>
