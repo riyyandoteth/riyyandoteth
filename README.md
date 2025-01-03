@@ -21,7 +21,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode2.svg" alt="VSCode" width="40" height="35"/> </a><a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix.ethereum.org/assets/img/remix-logo-blue.png" alt="Remix" width="35" height="35"/> </a><a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="Solidity" width="40" height="35"/> </a><a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://getfoundry.sh/logo.png" alt="Foundry" width="40" height="38"/> </a>
+<p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode2.svg" alt="VSCode" width="40" height="35"/> </a><a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix.ethereum.org/assets/img/remix-logo-blue.png" alt="Remix" width="33" height="33"/> </a><a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://imiblockchain.com/wp-content/uploads/2021/11/solidity-programming-language.png" alt="Solidity" width="39" height="35"/> </a><a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://getfoundry.sh/logo.png" alt="Foundry" width="40" height="38"/> </a>
 
 
 
