@@ -35,6 +35,9 @@
      <a href="https://www.zksync.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/bxpana/zksync-community-brand-assets/blob/main/zkSync/Old%20Logos/zkSync.png" alt="ZKsync" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/nolan/64/javascript.png" alt="Javascript" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
+    </a>
   
 </div>
 
