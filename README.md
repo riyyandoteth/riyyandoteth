@@ -27,7 +27,7 @@
         <img src="https://img.icons8.com/color-glass/100/solidity.png" alt="Solidity" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
     </a>
     <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer">
-        <img src="https://getfoundry.sh/logo.png" alt="Foundry" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
+        <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" alt="Foundry" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
     </a>
      <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/nolan/64/ethereum.png" alt="Ethereum" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
