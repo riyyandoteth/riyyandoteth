@@ -41,6 +41,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css" alt="Tailwind CSS" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
     </a>
+     <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/nolan/64/react-native.png" alt="ReactJS" style="width: 50px; height: 50px; object-fit: contain; display: block;"/>
+    </a>
     
     
   
